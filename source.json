@@ -18,6 +18,10 @@
             "name":"skatingfool.shader-settings",
             "releases":[
                 "https://github.com/Skating-Fool/VRC-Shader-Settings/releases/download/V1.2.2/skatingfool.shader-settings_V1.2.2.zip"
+            ],
+			"name":"skatingfool.base-avatar-scene",
+            "releases":[
+                "https://github.com/Skating-Fool/VRC-Base-Avatar-Scene/releases/download/V1.1.0/skatingfool.base-avatar-scene-V1.1.0.zip"
             ]
         }
     ]
