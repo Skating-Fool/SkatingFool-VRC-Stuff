@@ -13,12 +13,12 @@
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
+	"githubRepos":[
+		"Skating-Fool/VRC-Shader-Settings"
+	],	
     "packages":[
         {
-            "name":"skatingfool.shader-settings",
-            "releases":[
-                "https://github.com/Skating-Fool/SkatingFool-VRC-Stuff/releases/download/ShaderSettingsV1.2.2/skatingfool.shader-settings-V1.2.2.zip"
-            ]
+
         }
     ]
 }
