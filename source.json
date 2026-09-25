@@ -1,5 +1,5 @@
 {
-    "name":"Example Listing",
+    "name":"SkatingFool's VRC Stuff",
     "id":"skatingfool.vcc",
     "url":"https://skating-fool.github.io/SkatingFool-VRC-Stuff/index.json",
     "author":{
@@ -9,7 +9,7 @@
     },
     "description":"Example listing of VRChat packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/Skating-Fool/SkatingFool-VRC-Stuff",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
@@ -20,8 +20,7 @@
         {
             "name":"com.vrchat.udonsharp",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "https://github.com/Skating-Fool/SkatingFool-VRC-Stuff/releases/download/ShaderSettingsV1.2.2/skatingfool.shader-settings-V1.2.2.zip"
             ]
         }
     ]
